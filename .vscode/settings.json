@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "FACTORIAL_FUNCTION.C": "cpp"
+        "FACTRIOAL_FUNCTION.C": "cpp",
+        "factrioal.C": "cpp"
     }
 }
