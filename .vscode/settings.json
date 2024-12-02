@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "FACTORIAL_FUNCTION.C": "cpp",
-        "PERFECTNUMBER_FUNCTION.C": "cpp"
+        "PERFECTNUMBER_FUNCTION.C": "cpp",
+        "DECIMAL.C": "cpp",
+        "CALCULATOR.C": "cpp"
     }
 }
