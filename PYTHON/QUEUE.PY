@@ -19,7 +19,7 @@ def front():
     print("Front ",q[0])
 
 def rare():
-    print("rare ",q[-1]);
+    print("rare ",q[-1])
 
 enqueue(1)
 enqueue(2)
