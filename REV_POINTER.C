@@ -1,12 +1,21 @@
-#include<stdio.h>
-int main(){
-    int arr[5]={1,2,3,4,5,};
-    int *ptr;
-    ptr=arr;
-    for(int i=0;i<5;i++){
-        printf("address of %d is %u\n",*ptr,*ptr);
-        ptr++;
+#include <stdio.h>
+void reverseNumber(int *num) {
+    int reversed = 0;
+    while (*num != 0) {
+        reversed = reversed * 10 + (*num % 10);
+        *num /= 10;
     }
+    *num = reversed;
+}
 
+int main() {
+    int number;
+    printf("Enter a number: ");
+    scanf("%d", &number);
 
+    reverseNumber(&number);
+    
+    printf("Reversed number: %d\n", number);
+    
+    return 0;
 }
