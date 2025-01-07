@@ -3,6 +3,22 @@
         "FACTORIAL_FUNCTION.C": "cpp",
         "PERFECTNUMBER_FUNCTION.C": "cpp",
         "DECIMAL.C": "cpp",
-        "CALCULATOR.C": "cpp"
+        "CALCULATOR.C": "cpp",
+        "PERFECT_FUNCTION.C": "cpp",
+        "SUM_USING_FUNCTION.C": "cpp",
+        "SQURE_USING_FUNCTION.C": "cpp",
+        "ARMNGSTRONG_FUNCTION.C": "cpp",
+        "FIBONACCI _SERISE_USING_FUNCTION.C": "cpp",
+        "QUADRATIC.C": "cpp",
+        "QUADRATIC_POINTER.C": "cpp",
+        "PASCAL.C": "cpp",
+        "BINARY_TO_DECIMAL.C": "cpp",
+        "REVERSE_ARRAY.C": "cpp",
+        "CREAT_ARRY.C": "cpp",
+        "REV_POINTER.C": "cpp",
+        "CPY_STRING.C": "cpp",
+        "CPY.C": "cpp",
+        "DOUBLE_POINTER.C": "cpp",
+        "HCF_LCM.C": "cpp"
     }
 }
