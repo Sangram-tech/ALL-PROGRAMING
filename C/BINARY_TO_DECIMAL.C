@@ -14,7 +14,7 @@ int binarytodecimal(long long binary){
     return decimal;
     
 }
-void main(){
+ int main(){
     long long binary;
     int decimal;
     printf("enter binary number::");

@@ -20,5 +20,6 @@
         "CPY.C": "cpp",
         "DOUBLE_POINTER.C": "cpp",
         "HCF_LCM.C": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
